@@ -1,8 +1,7 @@
                                                   USED-MOBILE-PRICE-PREDICTION
                                                   
                                                   
-                            ![mobile](https://user-images.githubusercontent.com/122966157/215034284-865693a2-a472-484c-b5ae-23364116b4fc.jpg)
-
+                            
  
  OBJECTIVE:
    

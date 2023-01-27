@@ -1,6 +1,10 @@
                                                   USED-MOBILE-PRICE-PREDICTION
-                                                                                                                               
- OBJECTIVE:
+                                                  
+                                                  
+ ![second-hand-mobile-phones-smartphones-D14C13](https://user-images.githubusercontent.com/122966157/215088795-2f650a5a-445a-4cee-9cfb-72296b67df5e.jpg)
+                                         
+                                                  
+  OBJECTIVE:
    
         To predict the price of a used phone/tablet and identify factors that significantly influence it.
         
@@ -108,8 +112,4 @@ CORRELATION BETWEEN VARIABLES:
 
 -> Predicting the model in test data.
 
--> Check the RMSE for prediction and Actual.
-
- 
- 
- 
+-> Check the RMSE for prediction and Actual.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                

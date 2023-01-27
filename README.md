@@ -1,8 +1,7 @@
                                                   USED-MOBILE-PRICE-PREDICTION
                                                   
                                                   
-                            
- 
+                             
  OBJECTIVE:
    
         To predict the price of a used phone/tablet and identify factors that significantly influence it.

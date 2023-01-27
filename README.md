@@ -25,7 +25,7 @@ METHODOLOGY:
  
  Visualization - Using 'ggplot' we can create a plots and provides helpful commands to create complex plots from data in a data frame. 
  
- Exploratory Data Analysis -  provides a better understanding of data set variables and the relationships between them.
+ Exploratory Data Analysis -  Provides a better understanding of data set variables and the relationships between them.
                               'dplyr' is a package for making data manipulation easier.
  
  Feature selection -Identify those attributes that are and are not required to build an accurate model.                             
@@ -41,20 +41,34 @@ METHODOLOGY:
                                                     MACHINE LEARNING ANALYSIS
                                                      
  SUMMARY STATISTICS:
+ 
  device_brand	
-os	
-screen_size	
-4g	
-5g	
-rear_camera_mp
-front_camera_mp
-internal_memory	
-ram	battery	
-weight	
-release_year	
-days_used	
-normalized_used_price	
-normalized_new_price(TARGET VARIABLE)
+ 
+ os
+ 
+ screen_size	
+ 
+ 4g	
+ 
+ 5g	
+ 
+ rear_camera_mp
+
+ front_camera_mp
+ 
+ internal_memory
+ 
+ ram	battery	
+ 
+ weight	
+ 
+ release_year
+ 
+ days_used	
+ 
+ normalized_used_price	
+ 
+ normalized_new_price(TARGET VARIABLE)
 
 MISSING VALUES:
 

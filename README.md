@@ -1,14 +1,5 @@
                                                   USED-MOBILE-PRICE-PREDICTION
-                                   
-          
-          ![second-hand-mobile-phones-smartphones-D14C13](https://user-images.githubusercontent.com/122966157/215050787-17140f19-ef54-4ec3-942a-b780023d37f0.jpg)
-
-          
-          
-          
-          
-                                                                   
-                             
+                                                                                                                               
  OBJECTIVE:
    
         To predict the price of a used phone/tablet and identify factors that significantly influence it.

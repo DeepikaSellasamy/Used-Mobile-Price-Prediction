@@ -1,4 +1,4 @@
-                                                  USED-MOBILE-PRICE-PREDICTION
+                                                   USED-MOBILE-PRICE-PREDICTION
                                                   
                                                   
  ![second-hand-mobile-phones-smartphones-D14C13](https://user-images.githubusercontent.com/122966157/215088795-2f650a5a-445a-4cee-9cfb-72296b67df5e.jpg)
@@ -14,7 +14,7 @@
         
         It contains 15 features and 3455 rows. The detailed attributes is given below in the summary statistics:
 
-METHADOLOGY:
+METHODOLOGY:
  
         We will proceed with reading the data, and then perform data analysis. The practice of examining data using analytical or statistical methods in order to identify meaningful information is known as data analysis. After data analysis, we will find out the data distribution and data types. We will train 4 regression algorithms to predict the output.
         

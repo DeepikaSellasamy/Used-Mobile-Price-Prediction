@@ -1,4 +1,4 @@
-                                                            USED-MOBILE-PRICE-PREDICTION
+                                                  USED-MOBILE-PRICE-PREDICTION
  
  OBJECTIVE:
    
@@ -32,7 +32,7 @@ METHADOLOGY:
  
  Checking the accuracy for the prediction
  
- The vision of the dataset has been given below:
+ ->The vision of the dataset has been given below:
  
                                                     MACHINE LEARNING ANALYSIS
                                                      
